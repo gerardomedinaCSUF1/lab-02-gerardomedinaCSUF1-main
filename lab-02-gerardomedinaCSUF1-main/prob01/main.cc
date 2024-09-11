@@ -47,10 +47,6 @@ my_bubble.SetY(y);
 my_bubble.SetSize(size);
 my_bubble.SetColor(color);
 
-std::cout<<x<<'\n';
-std::cout<<y<<'\n';
-std::cout<<size<<'\n';
-std::cout<<color<<'\n';
   // Don't delete this!
   // This prints out your bubble to the terminal and also
   // draws it into an image you can view in "bubble.bmp".
